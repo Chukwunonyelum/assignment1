@@ -1,4 +1,4 @@
-Hosting an HTML Website on a Single EC2 Instance in AWS
+TASK 1: Hosting an HTML Website on a Single EC2 Instance in AWS using S3
 
 This guide outlines a step-by-step process for hosting an HTML website on a single EC2 instance in the default VPC using an automated script and user data at launch.
 
